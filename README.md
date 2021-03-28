@@ -1,7 +1,8 @@
 # Exercise 1: Submit a pull request to OpenFIGI
 
 ### About
-You will need to write an example that is able to make use of the OpenFigi API.
+You will need to write an example that is able to make use of the OpenFigi API. Then, once your program is behaving as expected - take a look at the existing structure of the code in the examples repository, clean up your code where necessary, and add submit a pull request with your example program to the openfigi-examples repository...
+
 
 ### Pre-requisites
 * Get familiar with the openFIGI API
