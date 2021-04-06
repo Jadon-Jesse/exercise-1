@@ -1,7 +1,7 @@
 # Exercise 1: Submit a pull request to OpenFIGI
 
 ### About
-You will need to write an example that is able to make use of the OpenFIGI (/v3/mapping) API. Then, once your program is behaving as expected - take a look at the existing structure of the code in the [OpenFIGI API Examples repository](https://github.com/OpenFIGI/api-examples), clean up your code where necessary, and add submit a pull request with your example program to the [OpenFIGI-API-examples] (https://github.com/OpenFIGI/api-examples) repository
+You will need to write an example that is able to make use of the OpenFIGI (/v3/mapping) API. Then, once your program is behaving as expected - take a look at the existing structure of the code in the [OpenFIGI API Examples repository](https://github.com/OpenFIGI/api-examples), clean up your code where necessary, and add submit a pull request with your example program to the [OpenFIGI-API-examples](https://github.com/OpenFIGI/api-examples) repository
 
 
 ### Pre-requisites
